@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ephydempsey
-- 👀 I’m interested in technology
+- 👀 I’m into the vast field of tech.
 - 🌱 I’m currently learning bachelor of science in data science
-- 💞️ I’m looking to collaborate on technology
+- 💞️ I’m looking to collaborate in technology
 - 📫 How to reach me +254 742 755091
 
 <!---
